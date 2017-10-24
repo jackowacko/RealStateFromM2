@@ -1,0 +1,15 @@
+---
+title: "RealState"
+author: "Jackson"
+date: "23 de marzo de 2017"
+output: html_document
+---
+
+
+## Idea
+
+Extract real state sales data from web using RSlenium into m2 (classifieds webpage) for build a Mongo document data base 
+## Requirements
+-Selenium
+-MongoDB
+-R
